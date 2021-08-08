@@ -1,0 +1,21 @@
+[{
+        "UId": "1",
+        "firstName": "Mayank",
+        "middleName": "MS",
+        "lastName": "Sharma",
+        "email": "mayank2299@gmail.com",
+        "phoneNumber": "9873824766",
+        "role": "admin",
+        "address": "NCR"
+    },
+    {
+        "UId": "2",
+        "firstName": "deepak",
+        "middleName": "dk",
+        "lastName": "kumar",
+        "email": "deepak.kumar@sourcefuse.com",
+        "phoneNumber": "9971408105",
+        "role": "admin",
+        "address": "kurukshetra"
+    }
+]
