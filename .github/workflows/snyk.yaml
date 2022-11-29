@@ -13,8 +13,8 @@ on:
 jobs:
   security:
     runs-on: 
-      - self-hosted
-      - refarch
+      - dev
+      - master
     name: snyk
     steps:
        - name: checkout
