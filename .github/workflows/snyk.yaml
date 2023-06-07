@@ -12,9 +12,7 @@ on:
 
 jobs:
   security:
-    runs-on: 
-      - dev
-      - master
+    runs-on: ubuntu-latest
     name: snyk
     steps:
        - name: checkout
