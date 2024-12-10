@@ -49,12 +49,12 @@
     "!*/__tests__"
   ],
   "dependencies": {
-    "@loopback/boot": "^3.4.4",
+    "@loopback/boot": "^4.1.1",
     "@loopback/core": "^2.16.2",
     "@loopback/repository": "^3.7.3",
     "@loopback/rest": "^10.0.0",
     "@loopback/rest-explorer": "^4.0.1",
-    "@loopback/service-proxy": "^3.2.4",
+    "@loopback/service-proxy": "^4.1.1",
     "dotenv": "^10.0.0",
     "loopback-connector-postgresql": "^5.4.0",
     "tslib": "^2.5.1"
